@@ -1,0 +1,6 @@
+Data types in Dart programming are given below:
+Numbers. --> int, double, num
+Strings. --> String
+Booleans. --> bool
+Lists. --> List
+Maps. --> Map
