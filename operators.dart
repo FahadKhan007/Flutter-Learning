@@ -3,6 +3,7 @@
 // i. prefix
 // ii. infix
 // iii. suffix
+// can used to multiply even strings
 
 void test(){
   final age = 30;
