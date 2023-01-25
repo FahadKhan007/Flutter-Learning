@@ -1,7 +1,7 @@
 // dart enumeration
 // Named list of related items
 // a value has a name that can be programmatically refer to
-// 'enum' keyword used
+// 'enum' keyword is used
 // enum name starts with Uppercase and every word should be uppercase
 
 enum PersonProperties {
