@@ -20,6 +20,7 @@ Iterable<int> getOneTwo() {
 
 // sync with * sign returns a list of things and calculate its result synchornously
 // async with * sign returns a stream and calculate its result asynchornously
+// to use async generators we use Stream<Iterable<int>> getOneTwoThree() async*
 
 Iterable<int> getOneTwoThree() sync*{
   yield 1; // yield returns 1 as the first value of iterables
